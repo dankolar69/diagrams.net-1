@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T19:55:29.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="9JeBO4wlB-mvewMTDq3y" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T19:58:04.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="7fw0NV1AkeasxGit39oF" version="17.1.0" type="github">
   <diagram id="gPwRqEq1onMDomcdHrgf" name="Page-1">
-    <mxGraphModel dx="678" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="821" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,6 +141,12 @@
             <mxPoint x="660" y="910" as="sourcePoint" />
             <mxPoint x="750" y="770" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XT3SA_yS-Y2SzSAB8pBX-42" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="510" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="XT3SA_yS-Y2SzSAB8pBX-43" value="Nákup u samoobslužné pokladny" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="150" width="205" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
